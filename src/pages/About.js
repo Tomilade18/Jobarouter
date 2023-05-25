@@ -1,7 +1,7 @@
-export default function Home() {
+export default function About() {
     return (
-        <div className="home">
-            <h2>Welcome</h2>
+        <div className="about">
+            <h2>About Us</h2>
             <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy 
                 eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam voluptua
                  at vero eos et accusam et justo duo dolores et ea rebum stet 
